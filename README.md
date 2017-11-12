@@ -1,6 +1,6 @@
 # ExBanking
 
-[![Build Status](https://travis-ci.org/llxff/ex_banking?branch=develop)](https://travis-ci.org/llxff/ex_banking)
+[![Build Status](https://travis-ci.org/llxff/ex_banking.svg?branch=master)](https://travis-ci.org/llxff/ex_banking)
 
 Task [https://github.com/heathmont/elixir-test](https://github.com/heathmont/elixir-test)
 
@@ -11,7 +11,7 @@ In your `mix.exs` file:
 ```elixir
 def deps do
   [
-    {:ex_banking, github: "llxff/ex_banking", branch: "develop"}
+    {:ex_banking, github: "llxff/ex_banking"}
   ]
 end
 ```

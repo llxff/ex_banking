@@ -1,0 +1,5 @@
+%{"decimal": {:hex, :decimal, "1.4.1", "ad9e501edf7322f122f7fc151cce7c2a0c9ada96f2b0155b8a09a795c2029770", [], [], "hexpm"},
+  "espec": {:hex, :espec, "1.4.6", "9ac809d2a7ce64b9dbb468a517fe0c00c0464e4aeb918709ad2ba68a0a0d6536", [], [{:meck, "0.8.7", [hex: :meck, repo: "hexpm", optional: false]}], "hexpm"},
+  "meck": {:hex, :meck, "0.8.7", "ebad16ca23f685b07aed3bc011efff65fbaf28881a8adf925428ef5472d390ee", [], [], "hexpm"},
+  "mock": {:hex, :mock, "0.2.1", "bfdba786903e77f9c18772dee472d020ceb8ef000783e737725a4c8f54ad28ec", [], [{:meck, "~> 0.8.2", [hex: :meck, repo: "hexpm", optional: false]}], "hexpm"},
+  "money": {:hex, :money, "1.2.1", "fdcc7b021b894dbcc2cd0f57d2ccdd2224eced747231337a849424ffaa196b13", [], [{:ecto, "~> 1.0 or ~> 2.0 or ~> 2.1", [hex: :ecto, repo: "hexpm", optional: true]}, {:phoenix_html, "~> 2.0", [hex: :phoenix_html, repo: "hexpm", optional: true]}], "hexpm"}}
